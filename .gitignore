@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/reactpro/node_modules
+/reactpro/.pnp
+/reactpro/.pnp.js
+
+# testing
+/reactpro/coverage
+
+# production
+/reactpro/build
+
+# misc
+/reactpro/.DS_Store
+/reactpro/.env.local
+/reactpro/.env.development.local
+/reactpro/.env.test.local
+/reactpro/.env.production.local
+
+/reactpro/npm-debug.log*
+/reactpro/yarn-debug.log*
+/reactpro/yarn-error.log*
+/reactpro/.env
+
+/nodepro/.env
+/nodepro/node_modules
